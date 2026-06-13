@@ -1,16 +1,23 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Team:-
+Mantor:- Nitin Tiwari
+Team member :- Sachin Khushwaha
 
-Currently, two official plugins are available:
+project:-
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Scheme Ai 
 
-## React Compiler
+Problem:- 
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+People don't know the exact scheme there are fit in because government launch scheme but there portal do not have filter catagory for <br>
+for people to find which scheme for him or not 
 
-## Expanding the ESLint configuration
+Solution:-
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. filter to find which scheme are you fit in
+2. Document and step to get that scheme
+3. Ai bot to take help
+
+Deployment:-
+
+https://apl-gwalior-finals-teammate.vercel.app
